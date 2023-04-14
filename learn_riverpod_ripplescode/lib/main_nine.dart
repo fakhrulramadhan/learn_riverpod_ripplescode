@@ -3,7 +3,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import './models/user_model.dart';
 import './services/api_service.dart';
 
-//apiProvider
+//apiProvider, langsung memantau data ke api service
 final apiProvider = Provider<ApiService>((ref) => ApiService());
 
 //userdataProvider pakai Future Provider

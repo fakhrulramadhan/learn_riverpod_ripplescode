@@ -4,7 +4,6 @@ import 'package:go_router/go_router.dart';
 import 'package:learn_riverpod_ripplescode/counter.dart';
 
 import 'home.dart';
-import 'home.dart';
 
 // === Reading the created Provider with ConsumerWidget ====
 
